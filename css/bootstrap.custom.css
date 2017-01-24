@@ -22,6 +22,14 @@
   	font-size: 3em;
     font-weight: 200;
 }
+.navbar-custom .navbar-logo {
+  	float: left;
+    margin-right: 5px;
+}
+.navbar-logo img
+{
+	height: 50px;
+}
 .navbar-custom .navbar-toggle {
   	background-color:#eeeeee;
 }
