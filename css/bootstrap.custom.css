@@ -22,6 +22,11 @@
   	font-size: 3em;
     font-weight: 200;
 }
+#siteName:hover
+{
+	color: #FFA200;
+	
+}
 .navbar-custom .navbar-logo {
   	float: left;
     margin-right: 5px;

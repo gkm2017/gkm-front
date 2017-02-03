@@ -1,0 +1,105 @@
+.tutorial-list
+{
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.tutorial-list #hbox
+{
+	width: 1200px;
+	overflow:hidden;
+}
+.tutorial-list #hbox-left
+{
+	width: 16%;
+	display:block;
+	float: left;
+	margin-right:1%
+}
+.tutorial-list #tittle
+{
+	display: block;
+	border:1px solid rgba(0,0,0,.2);
+	color: #333333;
+	text-shadow: 0 1px 0 rgba(36, 195, 32, 0.78);
+	font-size:1.2em;
+	line-height: 1.9em;
+	background-color: #f2f2f2;
+}
+.tutorial-list #sidebar-box
+{
+	background-color: #fff;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+.tutorial-list #leftcolumn
+{
+	padding:4px;
+	margin:0;
+	overflow:hidden;
+}
+.tutorial-list #leftcolumn a
+{
+	display: block;
+	line-height: 20px;
+	padding: 4px;
+	text-decoration: none;
+	color:#000; 
+	border-bottom: 1px solid  #efefef;
+}
+.tutorial-list h2
+{
+	color: #404040;
+    background-color: #fff;
+    font-size: 120%;
+    margin-bottom: 4px;
+    padding-bottom: 0;
+    margin-top: 0;
+    padding-top: 0;
+    font-weight: 700;
+    color: #64854c;
+}
+
+.tutorial-list #hbox-mid
+{
+	width: 66%;
+	display:block;
+	float: left;
+	margin-right:1%
+}
+.tutorial-list #hbox-mid #article
+{
+	background: #fff;
+    margin: 0;
+    border: 1px solid #efefef;
+    border-bottom: 0;
+    margin-bottom: 20px;
+}
+.tutorial-list #previous-next-links
+{
+	overflow: hidden;
+    padding: 10px 30px 10px 30px;
+    background: #fbfbfb;
+    border-top: 1px solid #efefef;
+    border-bottom: 1px solid #efefef;
+    color: #ccc;
+}
+.tutorial-list #previous-design-link
+{
+	float: left;
+}
+.tutorial-list #next-design-link
+{
+	float: right;
+}
+.tutorial-list #article-body
+{
+	padding: 10px 10px 20px 10px;
+}
+.tutorial-list #hbox-right
+{
+	width: 15.6%;
+	display:block;
+	float: left;
+	margin-right:1%
+	
+}
