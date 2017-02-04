@@ -66,16 +66,3 @@
     margin-top: 0px;
     margin-bottom: 10px;
 }
-
-.jk-vip {
-    width: 1000px;
-    margin: 0 auto;
-    height: 420px;
-    margin-bottom: 40px;
-    box-sizing: border-box;
-}
-.jk-vip ul li a {
-    display: block;
-    height: 100%;
-    text-align: center;
-}

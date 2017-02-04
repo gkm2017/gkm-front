@@ -1,7 +1,8 @@
 .tutorial-list
 {
 	margin: 0 auto;
-	margin-top: 20px;
+	width: 1200px;
+	
 }
 .tutorial-list #hbox
 {
@@ -100,6 +101,14 @@
 	width: 15.6%;
 	display:block;
 	float: left;
-	margin-right:1%
-	
+}
+.tutorial-list .tittle
+{
+	display: block;
+	border:1px solid rgba(0,0,0,.2);
+	color: #333333;
+	text-shadow: 0 1px 0 rgba(36, 195, 32, 0.78);
+	font-size:1.2em;
+	line-height: 1.9em;
+	background-color: #f2f2f2;
 }
