@@ -29,6 +29,7 @@
 .tutorial-list #sidebar-box
 {
 	background-color: #fff;
+
     margin: 0 0 20px 0;
     padding: 0;
 }
@@ -103,6 +104,16 @@
 	float: left;
 }
 .tutorial-list .tittle
+{
+	display: block;
+	border:1px solid rgba(0,0,0,.2);
+	color: #333333;
+	text-shadow: 0 1px 0 rgba(36, 195, 32, 0.78);
+	font-size:1.2em;
+	line-height: 1.9em;
+	background-color: #f2f2f2;
+}
+.listtittle
 {
 	display: block;
 	border:1px solid rgba(0,0,0,.2);
